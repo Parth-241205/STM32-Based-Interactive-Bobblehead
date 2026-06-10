@@ -4,6 +4,7 @@ The STM uses custom functions to perform various tasks such as STOPWATCH, Clock 
 
 
 <img width="500" height="500" alt="Screenshot 2026-04-22 193437" src="https://github.com/user-attachments/assets/c9256b5d-2b2c-405a-b77f-886389b587aa" />
+<img width="563" height="395" alt="image" src="https://github.com/user-attachments/assets/74b84946-45c4-450a-bf25-6e40101438c2" />
 
 
 NEXT TASKS:
