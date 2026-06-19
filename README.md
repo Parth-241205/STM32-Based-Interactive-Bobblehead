@@ -10,6 +10,6 @@ The STM uses custom functions to perform various tasks such as STOPWATCH, Clock 
 
 
 
-# NEXT TASKS:
+# Next Tasks
 1) To include a RTC clock module connected via an LDO, electrically isolated from the main circuit to keep the clock running for better portability.
 2) To include Arcade Games like Pong and Brickbuster.
