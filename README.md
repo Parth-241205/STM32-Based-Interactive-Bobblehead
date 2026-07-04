@@ -1,4 +1,4 @@
-# STM32-Based-Interactive-Bobblehead
+# STM32 Based Interactive Deskbot Bobblehead
 # Overview
 This project uses a Nucleo-64 STM32F072RB with a 2.4" LCD TFT Display a IMU, and multiple touch Sensors mounted on a custom 3d printed Bobble Head body.
 The STM controller uses custom functions to perform various tasks such as STOPWATCH, Clock Display, Basic Calculations (Multiplication, Division, Addition, Subtraction, Exponential) and an Interactive mode where The eyes of the Deskbot reacts and rolls on tapping the bobble head. <br><br><br>
