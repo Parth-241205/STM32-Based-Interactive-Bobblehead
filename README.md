@@ -6,6 +6,10 @@ The STM controller uses custom functions to perform various tasks such as STOPWA
 
 
 <img width="350" height="350" alt="Screenshot 2026-04-22 193437" src="https://github.com/user-attachments/assets/c9256b5d-2b2c-405a-b77f-886389b587aa" />
+ &emsp;
+ &emsp;
+&emsp;
+
 <img width="350" height="350" alt="bot" src="https://github.com/user-attachments/assets/74328ead-a845-4217-967c-69376faa31b1" />
 
 
